@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+airflow.db
+airflow.cfg
+logs/
+.DS_Store
+mlruns/
+*.parquet
+terraform/.terraform/
+terraform/*.tfstate*
